@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "price":1235
+    },
+    {
+      "id": 2,
+      "title": "json-server2",
+      "author": "typicode2",
+      "price":1735
+    },
+    {
+      "id": 3,
+      "title": "json-server3",
+      "author": "typicode3",
+      "price":235
+    },
+    {
+      "id": 4,
+      "title": "json-server4",
+      "author": "typicode4",
+      "price":6735
+    },
+    {
+      "title": "今天是个好天气5555",
+      "author": "hjl",
+      "price":35,
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "userinfo": {
+    "name": "hjl",
+    "age": 30
+  }
+}
